@@ -16,7 +16,7 @@ An experiment-grounded benchmark for choosing how to search MOF synthesis condit
 
 ---
 
-## What is ActMOF?
+## Description
 
 Finding the conditions under which a metal-organic framework (MOF) crystallizes is a search problem: a handful of
 experiments must locate a narrow window in a large space of amounts, times and temperatures. ActMOF makes this search
